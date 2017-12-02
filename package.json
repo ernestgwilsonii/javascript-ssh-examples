@@ -1,0 +1,34 @@
+{
+  "name": "javascript-ssh-examples",
+  "version": "1.0.0",
+  "description": "JavaScript SSH client working examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ssh",
+    "client",
+    "working",
+    "examples"
+  ],
+  "author": {
+    "email": "ErnestGWilsonII@gmail.com",
+    "name": "Ernest G. Wilson II",
+    "url": "https://github.com/ernestgwilsonii"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ernestgwilsonii/javascript-ssh-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernestgwilsonii/javascript-ssh-examples/issues",
+    "email": "ErnestGWilsonII@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ssh2": "^0.5.5"
+  }
+}

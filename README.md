@@ -1,2 +1,2 @@
 # javascript-ssh-examples
-JavaScript SSH working examples!
+JavaScript SSH client: Sometimes you just want actual working examples!
